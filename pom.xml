@@ -15,15 +15,7 @@
       <version>3.8.1</version>
     </dependency>
   </dependencies>
-  <distributionManagement>
-	    
-	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>marolix-snapshot-repository </name>
-	      <url>http://52.66.240.230:8081/repository/ashokit-snapshot-repository/</url>
-	    </snapshotRepository>
-	    
-	</distributionManagement>
+
   <build>
     <finalName>01-maven-web-app</finalName>
     <plugins>
